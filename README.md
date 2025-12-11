@@ -37,8 +37,15 @@ Random Forest
 Distribution of marks and attendance
 Heatmap of correlation
 Comparison of high vs low performers
+Trend analysis of internal assessments
+
+🎯 Project Outcome
+Identified the most influential factors in student academic performance
+Predicted student performance with ML models
+Provided insights that can help improve teaching strategies and student outcomes
+Built a complete end-to-end data analysis + ML workflow
 
 Author: Huzaifa Baig
-Trend analysis of internal assessments
+
 
 Feature importance plots
