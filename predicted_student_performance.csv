@@ -1,0 +1,201 @@
+Roll_No,Internal_1,Internal_2,Attendance,Last_Year_Grade,Final_Result,Last_Year_Grade_Encoded,Final_Result_Encoded,Predicted_Result,Predicted_Result_Label,Recommendation
+S001,16,15,69,B,Pass,1,1,1,Pass,📉 Improve attendance
+S002,7,17,72,C,Pass,2,1,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S003,16,11,68,B,Pass,1,1,0,Fail,📉 Improve attendance
+S004,20,14,79,B,Pass,1,1,1,Pass,✅ Good standing
+S005,14,11,64,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S006,7,5,50,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S007,18,10,50,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S008,7,17,52,B,Fail,1,0,0,Fail,📉 Improve attendance
+S009,9,18,87,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S010,14,17,82,B,Pass,1,1,1,Pass,✅ Good standing
+S011,6,10,81,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S012,15,8,62,A,Fail,0,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S013,20,14,90,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S014,15,7,72,A,Fail,0,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S015,8,20,55,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S016,10,13,51,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S017,10,14,89,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S018,9,7,94,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S019,18,20,57,D,Fail,3,0,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S020,16,6,66,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S021,13,15,51,D,Fail,3,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S022,6,9,73,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S023,16,16,77,B,Pass,1,1,1,Pass,✅ Good standing
+S024,18,20,82,B,Pass,1,1,1,Pass,✅ Good standing
+S025,11,8,70,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S026,6,19,86,A,Pass,0,1,1,Pass,✅ Good standing
+S027,13,7,77,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S028,16,15,89,A,Pass,0,1,1,Pass,✅ Good standing
+S029,5,8,72,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S030,17,16,54,A,Fail,0,0,0,Fail,📉 Improve attendance
+S031,17,5,73,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S032,8,6,60,A,Fail,0,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S033,14,5,90,A,Fail,0,0,0,Fail,📚 Improve internal scores
+S034,9,10,71,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S035,5,10,90,A,Fail,0,0,0,Fail,📚 Improve internal scores
+S036,15,11,88,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S037,20,8,89,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S038,13,12,75,C,Pass,2,1,0,Fail,🔁 Needs academic support
+S039,13,7,92,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S040,13,7,83,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S041,13,11,78,B,Pass,1,1,0,Fail,✅ Good standing
+S042,19,10,72,C,Pass,2,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S043,14,8,95,D,Fail,3,0,1,Pass,"📚 Improve internal scores, 🔁 Needs academic support"
+S044,6,13,50,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S045,15,7,94,A,Fail,0,0,1,Pass,📚 Improve internal scores
+S046,17,9,62,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S047,15,19,92,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S048,12,18,95,B,Pass,1,1,1,Pass,✅ Good standing
+S049,12,10,54,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S050,6,11,51,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S051,17,20,87,A,Pass,0,1,1,Pass,✅ Good standing
+S052,12,14,50,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S053,12,11,86,A,Fail,0,0,0,Fail,📚 Improve internal scores
+S054,15,10,79,A,Pass,0,1,0,Fail,✅ Good standing
+S055,20,9,69,C,Pass,2,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S056,8,17,81,A,Pass,0,1,0,Fail,✅ Good standing
+S057,18,8,98,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S058,8,17,76,C,Pass,2,1,0,Fail,🔁 Needs academic support
+S059,13,11,69,C,Pass,2,1,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S060,18,6,90,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S061,8,7,52,A,Fail,0,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S062,19,12,89,A,Pass,0,1,1,Pass,✅ Good standing
+S063,7,11,95,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S064,10,7,80,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S065,8,17,53,A,Fail,0,0,0,Fail,📉 Improve attendance
+S066,7,11,97,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S067,7,13,90,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S068,12,16,53,A,Fail,0,0,0,Fail,📉 Improve attendance
+S069,17,10,78,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S070,17,20,76,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S071,14,9,66,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S072,8,14,87,C,Fail,2,0,1,Pass,"📚 Improve internal scores, 🔁 Needs academic support"
+S073,13,5,66,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S074,5,11,85,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S075,13,11,77,C,Pass,2,1,0,Fail,🔁 Needs academic support
+S076,20,13,100,B,Pass,1,1,1,Pass,✅ Good standing
+S077,5,7,78,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S078,18,11,53,A,Fail,0,0,0,Fail,📉 Improve attendance
+S079,19,16,85,B,Pass,1,1,1,Pass,✅ Good standing
+S080,5,12,53,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S081,19,18,91,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S082,11,5,80,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S083,15,11,59,D,Fail,3,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S084,14,19,96,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S085,6,8,59,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S086,12,8,62,A,Fail,0,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S087,12,16,55,D,Fail,3,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S088,13,19,50,B,Fail,1,0,0,Fail,📉 Improve attendance
+S089,10,5,81,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S090,6,11,88,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S091,14,6,58,A,Fail,0,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S092,10,9,87,A,Fail,0,0,0,Fail,📚 Improve internal scores
+S093,20,15,54,C,Fail,2,0,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S094,15,10,59,A,Fail,0,0,0,Fail,📉 Improve attendance
+S095,17,11,64,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S096,7,15,67,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S097,18,12,93,B,Pass,1,1,1,Pass,✅ Good standing
+S098,12,15,80,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S099,12,8,56,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S100,18,15,55,D,Fail,3,0,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S101,7,8,97,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S102,11,6,91,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S103,16,9,69,D,Pass,3,1,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S104,6,9,83,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S105,20,15,53,D,Fail,3,0,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S106,5,13,96,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S107,14,15,72,B,Pass,1,1,1,Pass,📉 Improve attendance
+S108,7,10,57,A,Fail,0,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S109,19,17,95,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S110,11,15,94,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S111,12,18,59,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S112,13,11,95,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S113,12,20,78,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S114,18,14,95,B,Pass,1,1,1,Pass,✅ Good standing
+S115,6,14,69,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S116,9,5,78,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S117,8,13,83,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S118,14,7,84,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S119,15,5,52,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S120,13,15,89,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S121,11,14,77,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S122,17,6,60,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S123,5,18,81,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S124,10,13,67,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S125,5,20,100,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S126,7,8,54,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S127,10,17,93,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S128,12,19,79,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S129,14,8,52,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S130,10,20,90,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S131,15,17,57,B,Fail,1,0,0,Fail,📉 Improve attendance
+S132,8,17,53,D,Fail,3,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S133,14,17,55,B,Fail,1,0,0,Fail,📉 Improve attendance
+S134,7,20,60,B,Fail,1,0,0,Fail,📉 Improve attendance
+S135,8,6,70,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S136,15,13,50,A,Fail,0,0,0,Fail,📉 Improve attendance
+S137,11,19,83,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S138,19,15,52,D,Fail,3,0,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S139,6,19,64,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S140,7,20,52,A,Fail,0,0,0,Fail,📉 Improve attendance
+S141,20,19,64,C,Fail,2,0,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S142,11,15,52,D,Fail,3,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S143,11,13,94,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S144,17,7,64,C,Fail,2,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S145,20,10,66,D,Pass,3,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S146,12,7,82,A,Fail,0,0,0,Fail,📚 Improve internal scores
+S147,14,17,69,D,Pass,3,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S148,15,15,75,A,Pass,0,1,1,Pass,✅ Good standing
+S149,14,5,91,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S150,17,6,68,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S151,19,7,99,B,Pass,1,1,1,Pass,✅ Good standing
+S152,10,15,68,C,Pass,2,1,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S153,16,6,85,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S154,6,20,98,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S155,10,20,85,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S156,14,16,64,A,Fail,0,0,0,Fail,📉 Improve attendance
+S157,9,15,82,A,Pass,0,1,0,Fail,✅ Good standing
+S158,20,8,81,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S159,15,18,72,D,Pass,3,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S160,12,14,51,D,Fail,3,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S161,12,7,55,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S162,16,8,57,D,Fail,3,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S163,8,6,95,A,Fail,0,0,0,Fail,📚 Improve internal scores
+S164,7,10,100,A,Fail,0,0,0,Fail,📚 Improve internal scores
+S165,20,6,87,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S166,12,5,52,D,Fail,3,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S167,9,12,89,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S168,11,18,78,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S169,7,12,55,C,Fail,2,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores, 🔁 Needs academic support"
+S170,13,12,56,B,Fail,1,0,0,Fail,📉 Improve attendance
+S171,10,16,87,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S172,13,13,51,B,Fail,1,0,0,Fail,📉 Improve attendance
+S173,17,20,68,C,Pass,2,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S174,14,13,99,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S175,12,15,83,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S176,19,5,78,B,Pass,1,1,0,Fail,✅ Good standing
+S177,13,12,93,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S178,13,13,90,B,Pass,1,1,1,Pass,✅ Good standing
+S179,9,7,99,C,Fail,2,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S180,13,18,53,B,Fail,1,0,0,Fail,📉 Improve attendance
+S181,16,18,68,C,Pass,2,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S182,8,17,87,B,Pass,1,1,1,Pass,✅ Good standing
+S183,5,17,88,B,Fail,1,0,0,Fail,📚 Improve internal scores
+S184,11,17,62,B,Fail,1,0,0,Fail,📉 Improve attendance
+S185,11,13,71,B,Pass,1,1,0,Fail,📉 Improve attendance
+S186,7,9,96,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S187,14,12,84,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S188,14,16,89,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S189,20,9,64,B,Fail,1,0,0,Fail,📉 Improve attendance
+S190,19,6,59,D,Fail,3,0,0,Fail,"📉 Improve attendance, 🔁 Needs academic support"
+S191,10,18,81,C,Pass,2,1,1,Pass,🔁 Needs academic support
+S192,16,16,55,B,Fail,1,0,0,Fail,📉 Improve attendance
+S193,19,13,77,B,Pass,1,1,1,Pass,✅ Good standing
+S194,13,13,99,D,Pass,3,1,1,Pass,🔁 Needs academic support
+S195,5,18,61,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
+S196,9,7,88,D,Fail,3,0,0,Fail,"📚 Improve internal scores, 🔁 Needs academic support"
+S197,12,12,79,C,Pass,2,1,0,Fail,🔁 Needs academic support
+S198,15,18,74,C,Pass,2,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S199,15,14,66,C,Pass,2,1,1,Pass,"📉 Improve attendance, 🔁 Needs academic support"
+S200,13,7,72,B,Fail,1,0,0,Fail,"📉 Improve attendance, 📚 Improve internal scores"
